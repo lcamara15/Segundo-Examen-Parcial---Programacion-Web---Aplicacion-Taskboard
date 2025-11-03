@@ -1,4 +1,4 @@
-# TaskBoard:: 
+# TaskBoard:
 
 App de *lista de tareas* con **React + Redux**. Permite agregar, marcar como completadas y eliminar tareas. 
 
