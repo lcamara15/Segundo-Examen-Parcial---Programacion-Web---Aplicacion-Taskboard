@@ -1,12 +1,13 @@
-# TaskBoard
+# TaskBoard:: 
 
-App de **lista de tareas** con **React + Redux**.
-Permite **agregar**, **marcar como completadas** y **eliminar** tareas.
-Muestra las completadas **al final** y un **contador**.
+App de *lista de tareas* con **React + Redux**. Permite agregar, marcar como completadas y eliminar tareas. 
 
-# Instalar y ejecutar
+Muestra las completadas al final y un contador.
+
+# Instalar y ejecutar:
+
 ```bash
-npm install
+npm install 
 npm run dev
 
 Debe abrirse la URL que imprime Vite (ej: http://localhost:5173)
@@ -14,13 +15,18 @@ Debe abrirse la URL que imprime Vite (ej: http://localhost:5173)
 # Estructura:
 
 src/
-  components/   # TaskForm, TaskItem, TaskList
-  redux/        # actions, reducer, store (Redux Toolkit)
-  styles.css
+  components/     #TaskForm, TaskItem, TaskList
+  redux/          #actions, reducer, store (Redux Toolkit)
+  style.css 
   App.jsx
   main.jsx
 
-# Notas:
+# Notas: 
 
 - Acciones: ADD_TASK, TOGGLE_TASK, DELETE_TASK.
 - Estado global en Redux; UI simple con CSS.
+
+
+
+
+
