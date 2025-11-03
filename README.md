@@ -4,7 +4,7 @@ App de **lista de tareas** con **React + Redux**.
 Permite **agregar**, **marcar como completadas** y **eliminar** tareas.
 Muestra las completadas **al final** y un **contador**.
 
-## Instalar y ejecutar
+# Instalar y ejecutar
 ```bash
 npm install
 npm run dev
